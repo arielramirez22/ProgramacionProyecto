@@ -1,0 +1,9 @@
+article {
+    border: 1px solid silver;
+    margin: 10px;
+}
+
+main {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
